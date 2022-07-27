@@ -1,8 +1,8 @@
 ---
 name: kusto-syntax-highlighting
-version: a73046461bf9ddc2936809dcca2a2a0656dc44f7
+version: 7aa46fd48ebf50c9cbfb98c06782a5e9d86dc535
 type: git_submodule
-homepage: https://github.com/josin/kusto-syntax-highlighting
+homepage: https://github.com/rosshamish/kuskus
 license: apache-2.0
 licenses:
 - sources: LICENSE
