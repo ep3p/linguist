@@ -529,7 +529,7 @@
 	url = https://github.com/p0lygun/kivy-language-grammer.git
 [submodule "vendor/grammars/kusto-syntax-highlighting"]
 	path = vendor/grammars/kusto-syntax-highlighting
-	url = https://github.com/josin/kusto-syntax-highlighting
+	url = https://github.com/rosshamish/kuskus
 [submodule "vendor/grammars/lang-4d"]
 	path = vendor/grammars/lang-4d
 	url = https://github.com/ayoubserti/lang-4d
